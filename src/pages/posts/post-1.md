@@ -26,3 +26,10 @@ tags: ["astro", "blogging", "learning in public"]
  ## 下一步计划
 
  我将完成 Astro 教程，然后继续编写更多内容。关注我以获取更多信息。
+
+
+ <https://www.baidu.com>
+
+ [百度](https://www.baidu.com)
+
+ ![一张图片](https://ai-studio-static-online.cdn.bcebos.com/9384fb5a8d82482dbefa3c01e8d20683447629988cc94eb5a1d55aa2c875a3ee "QAQ一张图片")
